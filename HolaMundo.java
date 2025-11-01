@@ -9,7 +9,7 @@ public class HolaMundo {
         
         System.out.println("Encantado de conocerte, " + nombre + "!");
         
-        sc.close();
+
     }
 }
 
