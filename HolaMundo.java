@@ -7,8 +7,6 @@ public class HolaMundo {
         System.out.print("¿Cómo te llamas? ");
         String nombre = sc.nextLine();
         
-        System.out.println("Encantado de conocerte, " + nombre + "!");
-        
 
     }
 }
