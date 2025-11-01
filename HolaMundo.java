@@ -8,6 +8,7 @@ public class HolaMundo {
         String nombre = sc.nextLine();
         
         System.out.println("Encantado de conocerte, " + nombre + "!");
+        System.out.println("Espero que tengas un gran día programando en Java :)");
         
         sc.close();
     }
